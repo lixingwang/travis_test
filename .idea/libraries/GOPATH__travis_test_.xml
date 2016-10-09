@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;travis_test&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/workspace_golang/state-services/src/flogo" />
+      <root url="file://$USER_HOME$/Documents/workspace_golang/state-services/src/github.com" />
+      <root url="file://$USER_HOME$/Documents/workspace_golang/state-services/src/gopkg.in" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/workspace_golang/state-services/src/flogo" />
+      <root url="file://$USER_HOME$/Documents/workspace_golang/state-services/src/github.com" />
+      <root url="file://$USER_HOME$/Documents/workspace_golang/state-services/src/gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
